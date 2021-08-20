@@ -1,7 +1,7 @@
-## Hi, I'm Lucas 👋 Software Developer, Amateur Astronomer, Bushcraft lover and Data Scientist Student.
+## Hi, I'm Lucas 👋 Software Developer, Amateur Astronomer, Bushcraft lover and Data Scientist Graduated.
 
 System Analytic at [Unicesumar University ](https://unicesumar.edu.br)
-Data Scientist in Study at [FCV University ](https://www.unifcv.edu.br/)
+Data Scientist Graduated at [FCV University ](https://www.unifcv.edu.br/)
 Full Stack Developer at [Evolusom](https://evolusom.com.br/)
 
 
@@ -16,6 +16,9 @@ Full Stack Developer at [Evolusom](https://evolusom.com.br/)
 
 Bye!
 
+🔵 **Connect with me:**
+[![Follow](https://img.shields.io/twitter/follow/luuckymacedo?style=social)](https://www.twitter.com/luuckymacedo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassmacedo//)
 
 <!--
 **lucassmacedo/lucassmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
