@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucassmacedo" alt="lucassmacedo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/luuckymacedo" target="blank"><img src="https://img.shields.io/twitter/follow/luuckymacedo?logo=twitter&style=for-the-badge" alt="luuckymacedo" /></a> </p>
 
 - 🌱 I’m currently learning **Linux, Backend Development, Data Science, Statistic, Math, Database, Data Analytic, Machine Learning, Deep Learning**
 
